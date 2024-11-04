@@ -1,0 +1,5 @@
+230712,Ushan Fernando,86,89,74
+240619,Trishan Alwis,71,79,64
+202316,Nipun Lakshan,80,54,73
+240617,Kethaka Perera,65,34,70
+240720,Pramila Silva,63,74,20
